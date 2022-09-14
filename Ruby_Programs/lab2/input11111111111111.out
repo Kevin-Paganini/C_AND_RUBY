@@ -1,0 +1,7 @@
+This is a simple sentence. This simple sentence
+appears on three lines.
+---------- analysis ----------
+Output line count: 2
+Repeated phrase count: 2
+Repeated phrases:
+simple sentence: 1, 2this simple: 1, 2

@@ -1,0 +1,6 @@
+triple triple triple
+---------- analysis ----------
+Output line count: 1
+Repeated phrase count: 1
+Repeated phrases:
+triple triple: 1, 2

@@ -1,0 +1,69 @@
+There is an inn, a merry old inn
+beneath an old grey hill, And there they
+brew a beer so brown That the Man
+in the Moon himself came down One night
+to drink his fill. The ostler has a
+tipsy cat that plays a five-stringed fiddle; And
+up and down he runs his bow, Now
+squeaking high, now purring low, Now sawing in
+the middle. The landlord keeps a little dog
+that is mighty fond of jokes; When there's
+good cheer among the guests, He cocks an
+ear at all the jests And laughs until
+he chokes. They also keep a horned cow
+as proud as any queen; But music turns
+her head like ale, And makes her wave
+her tufted tail and dance upon the green.
+And O! the rows of silver dishes and
+the store of silver spoons! For Sunday there's
+a special pair, And these they polish up
+with care on Saturday afternoons. The Man in
+the Moon was drinking deep, and the cat
+began to wail; A dish and a spoon
+on the table danced, The cow in the
+garden madly pranced, and the little dog chased
+his tail. The Man in the Moon took
+another mug, and then rolled beneath his chair;
+And there he dozed and dreamed of ale,
+Till in the sky the stars were pale,
+and dawn was in the air. Then the
+ostler said to his tipsy cat: 'The white
+horses of the Moon, They neigh and champ
+their silver bits; But their master's been and
+drowned his wits, and the Sun'll be rising
+soon!' So the cat on his fiddle played
+hey-diddle-diddle, a jig that would wake the dead:
+He squeaked and sawed and quickened the tune,
+While the landlord shook the Man in the
+Moon: 'It's after three!' he said. They rolled
+the Man slowly up the hill and bundled
+him into the Moon, While his horses galloped
+up in rear, And the cow came capering
+like a deer, and a dish ran up
+with the spoon. Now quicker the fiddle went
+deedle-dum-diddle; the dog began to roar, The cow
+and the horses stood on their heads; The
+guests all bounded from their beds and danced
+upon the floor. With a ping and a
+pong the fiddle-strings broke! the cow jumped over
+the Moon, And the little dog laughed to
+see such fun, And the Saturday dish went
+off at a run with the silver Sunday
+spoon. The round Moon rolled behind the hill
+as the Sun raised up her head. She
+hardly believed her fiery eyes; For though it
+was day, to her surprise they all went
+back to bed! - Tolkien, The Fellowship of
+the Ring
+---------- analysis ----------
+Output line count: 57
+Repeated phrase count: 8
+Repeated phrases:
+in moon: 4, 31, 37, 52
+man in: 4, 31, 37, 52
+little dog: 13, 35, 69
+began to: 32, 62
+her head: 21, 74
+of silver: 25, 26
+tipsy cat: 7, 43
+up with: 28, 59

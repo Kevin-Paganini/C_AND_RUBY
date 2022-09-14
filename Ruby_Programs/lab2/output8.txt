@@ -1,0 +1,37 @@
+Just like a flame Love burned brightly then
+became An empty smoke dream that has gone
+Gone with the wind Gone, gone, gone with
+the wind Just like a leaf that has
+blown away Gone with the wind My romance
+has flown away Yesterday's kisses are still, still
+on my lips I've had a lifetime of
+heaven at my fingertips But now all-all is
+gone Gone is the rapture that fills my
+heart Gone with the wind The gladness that
+filled my heart Just like a flame Love
+burned brightly then became An empty smoke dream
+that has Gone with the wind Gone with
+the wind
+---------- analysis ----------
+Output line count: 14
+Repeated phrase count: 19
+Repeated phrases:
+gone with: 4, 6, 8, 15, 21, 23
+with wind: 4, 6, 8, 15, 21, 23
+gone gone: 3, 6, 6, 13
+just like: 1, 7, 18
+that has: 3, 7, 20
+an empty: 3, 20
+became an: 2, 19
+brightly then: 2, 19
+burned brightly: 2, 19
+dream that: 3, 20
+empty smoke: 3, 20
+flame love: 1, 18
+has gone: 3, 20
+like flame: 1, 18
+love burned: 2, 19
+my heart: 14, 16
+smoke dream: 3, 20
+then became: 2, 19
+wind gone: 4, 21

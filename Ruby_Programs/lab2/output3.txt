@@ -1,0 +1,4 @@
+---------- analysis ----------
+Output line count: 0
+Repeated phrase count: 0
+Repeated phrases:

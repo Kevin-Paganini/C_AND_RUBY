@@ -1,0 +1,10 @@
+this is,a line=wit=h silly punctuation.... and=amore +asfsadf++++ 234q234
+made up just for You to read and
+for HER TO READ But to read! is
+fabulous ,sill.y pun:c;tuat;;i:o.n abounds
+---------- analysis ----------
+Output line count: 4
+Repeated phrase count: 2
+Repeated phrases:
+silly punctuation: 1, 7
+to read: 2, 4

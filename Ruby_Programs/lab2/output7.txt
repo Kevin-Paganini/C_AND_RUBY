@@ -1,0 +1,41 @@
+`Twas brillig, and the slithy toves Did gyre
+and gimble in the wabe: All mimsy were
+the borogoves, And the mome raths outgrabe. "Beware
+the Jabberwock, my son! The jaws that bite,
+the claws that catch! Beware the Jubjub bird,
+and shun The frumious Bandersnatch!" He took his
+vorpal sword in hand: Long time the manxome
+foe he sought -- So rested he by
+the Tumtum tree, And stood awhile in thought.
+And, as in uffish thought he stood, The
+Jabberwock, with eyes of flame, Came whiffling through
+the tulgey wood, And burbled as it came!
+One, two! One, two! And through and through
+The vorpal blade went snicker-snack! He left it
+dead, and with its head He went galumphing
+back. "And, has thou slain the Jabberwock? Come
+to my arms, my beamish boy! O frabjous
+day! Callooh! Callay!' He chortled in his joy.
+`Twas brillig, and the slithy toves Did gyre
+and gimble in the wabe; All mimsy were
+the borogoves, And the mome raths outgrabe.
+---------- analysis ----------
+Output line count: 21
+Repeated phrase count: 16
+Repeated phrases:
+`twas brillig: 1, 27
+all mimsy: 3, 29
+borogoves mome: 3, 29
+brillig slithy: 1, 27
+did gyre: 2, 28
+gimble in: 2, 28
+gyre gimble: 2, 28
+in wabe: 2, 28
+mimsy were: 3, 29
+mome raths: 4, 30
+one two!: 18, 18
+raths outgrabe: 4, 30
+slithy toves: 1, 27
+toves did: 1, 27
+wabe all: 2, 28
+were borogoves: 3, 29

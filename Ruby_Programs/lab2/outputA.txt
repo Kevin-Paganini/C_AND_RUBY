@@ -1,0 +1,19 @@
+ab Ac AD AB aB ac ac ab
+eb ef one two three four five six
+seven ab ac a.b a.c .ab ....ab,bc ef
+ab;;;:::...bc:: ab a'b a"b a^b a/b a!b bc
+`ab~ bc +ab b'c ab a bc ab
+the bc are ab is bc I one
+SHE t.w,o IT THEY one AND and and
+two A THE IS ARE I YOU three
+one two
+---------- analysis ----------
+Output line count: 9
+Repeated phrase count: 6
+Repeated phrases:
+ab ac: 1, 1, 13, 17
+one two: 1, 22, 23, 26
+ab bc: 20, 21, 22
+ac ab: 1, 16, 17
+bc ab: 20, 21
+two three: 1, 23
